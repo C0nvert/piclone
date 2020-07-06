@@ -2,7 +2,7 @@
 Cloning and Compressing SD Card Image
 
 ### Download Script
-`wget https://raw.githubusercontent.com/kallsbo/BASH-RaspberryPI-System-Backup/master/system_backup.sh
+`wget https://raw.githubusercontent.com/C0nvert/piclone/master/system_backup.sh
 `
 ### Make it executable
 `chmod +x system_backup.sh`
