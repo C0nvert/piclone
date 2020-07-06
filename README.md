@@ -7,7 +7,7 @@ Cloning and Compressing SD Card Image
 ### Check for Drive Name
 `lsblk`
 
-If name equals "mmcblk0"proceed 
+If name equals "mmcblk0", proceed 
 
 if not edit system_backup.sh
 ### Make it executable
